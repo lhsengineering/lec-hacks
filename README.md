@@ -1,2 +1,2 @@
 # lec-hacks
-Website for LECHAKS
+Website for LECHACKS
